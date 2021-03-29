@@ -1,4 +1,4 @@
-👩🏻‍💻 Junior Front End Developer formada en @ Adalab.
+💻 Junior Front End Developer formada en @ Adalab.
 
 🔍 Buscando trabajo como Junior Front-End Developer.
 
@@ -13,17 +13,17 @@ Mi formación y experiencia laboral me ha permitido desarrollar una gran capacid
 
 ADALAB 2021 - Programa integral de formación que aporta los conocimientos y herramientas para el desarrollo web front-end:
 
--Maquetación: HTML5, CSS3, Flexbox, Grid, Diseño Responsive y maquetación por componentes.
+- Maquetación: HTML5, CSS3, Flexbox, Grid, Diseño Responsive y maquetación por componentes.
 
--JavaScript y servicios web (APIs) de terceros.
+- JavaScript y servicios web (APIs) de terceros.
 
--Creación de SPAs sencilla con React.
+- Creación de SPAs sencilla con React.
 
--Control de versiones con Git.
+- Control de versiones con Git.
 
--Desarrollo de proyectos utilizando Agile y Scrum.
+- Desarrollo de proyectos utilizando Agile y Scrum.
 
--Herramientas de desarrollo: Gulp, Terminal.
+- Herramientas de desarrollo: Gulp, Terminal.
 
--Herramientas de Comunicación: Slack, Github.
+- Herramientas de Comunicación: Slack, Github.
 
