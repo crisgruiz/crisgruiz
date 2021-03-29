@@ -1,4 +1,5 @@
 👩🏻‍💻 Junior Front End Developer formada en @ Adalab.
+
 🔍 Buscando trabajo como Junior Front-End Developer.
 
 ## Sobre mi:
