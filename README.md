@@ -13,7 +13,7 @@ Mi formación y experiencia laboral me ha permitido desarrollar una gran capacid
 
 ADALAB 2021 - Programa integral de formación que aporta los conocimientos y herramientas para el desarrollo web front-end:
 
-- Maquetación: HTML5, CSS3, Flexbox, Grid, Diseño Responsive y maquetación por componentes.
+- Maquetación: HTML5, CSS3, SASS, Diseño Responsive y maquetación por componentes.
 
 - JavaScript y servicios web (APIs) de terceros.
 
@@ -23,7 +23,7 @@ ADALAB 2021 - Programa integral de formación que aporta los conocimientos y her
 
 - Desarrollo de proyectos utilizando Agile y Scrum.
 
-- Herramientas de desarrollo: Gulp, Terminal.
+- Herramientas de desarrollo: Gulp.
 
 - Herramientas de Comunicación: Slack, Github.
 
