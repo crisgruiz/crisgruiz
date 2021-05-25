@@ -1,29 +1,21 @@
-💻 Junior Front End Developer formada en @ Adalab.
+💻 Junior Front End Developer trained at @ Adalab.
 
-🔍 Buscando trabajo como Junior Front-End Developer.
+🔍 Looking for a job as Junior Front-End Developer.
 
-## Sobre mi:
+## About me:
 
-Graduada en Ingeniería Civil, mi carrera profesional se ha desarrollado principalmente en el sector de la Prevención de Riesgos Laborales hasta que de decidí dar un cambio en mi trayectoria profesional convirtiéndome en Desarrolladora Front-End.
+Graduated in Civil Engineering, my professional career has been developed mainly as Health and Safety Technician until I decided to change my career path by becoming a Front-End Developer.
 
-Mi formación y experiencia laboral me ha permitido desarrollar una gran capacidad de adaptación a nuevos retos, proyectos y situaciones complejas. Me gusta trabajar en equipo, siempre dispuesta a aportar nuevas ideas y puntos de vista, así como aprender de los demás. Ahora comienzo un nuevo camino en el mundo de la Programación buscando nuevos retos,  conocimientos y oportunidades.
+My training and work experience has allowed me to develop a great ability to adapt to new challenges, projects and complex situations. I like to work in a team, always willing to contribute new ideas and points of view, as well as learn from others. Now I am starting in the programming world, looking for new challenges, knowledge and opportunities.
 
 
-## Formación:
+## Education:
 
-ADALAB 2021 - Programa integral de formación que aporta los conocimientos y herramientas para el desarrollo web front-end:
+ADALAB 2021 - 100% remote training course which provides the knowledge and tools for front-end webdevelopment:
 
-- Maquetación: HTML5, CSS3, SASS, Diseño Responsive y maquetación por componentes.
-
-- JavaScript y servicios web (APIs) de terceros.
-
-- Creación de SPAs sencilla con React.
-
-- Control de versiones con Git.
-
-- Desarrollo de proyectos utilizando Agile y Scrum.
-
-- Herramientas de desarrollo: Gulp.
-
-- Herramientas de Comunicación: Slack, Github.
-
+- HTML5, CSS3, SASS, Responsive Design and component-based layout.
+- JavaScript.
+- Creation of simple SPAs with React.
+- Version control with Git.
+- Project development using AGILE and SCRUM.
+- Development tools: Gulp.
