@@ -1,6 +1,4 @@
-💻 Junior Front End Developer trained at @ Adalab.
-
-🔍 Looking for a job as Junior Front-End Developer.
+💻 Junior Front End Developer.
 
 ## About me:
 
@@ -8,6 +6,9 @@ Graduated in Civil Engineering, my professional career has been developed mainly
 
 My training and work experience has allowed me to develop a great ability to adapt to new challenges, projects and complex situations. I like to work in a team, always willing to contribute new ideas and points of view, as well as learn from others. Now I am starting in the programming world, looking for new challenges, knowledge and opportunities.
 
+## Experience
+
+Junior Front-End Developer at Wefox
 
 ## Education:
 
